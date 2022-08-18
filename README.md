@@ -6,5 +6,5 @@ Take a look at the simulated input loan data. Each row corresponds to a loan. It
 ## Module 2 preprocess the data and trains the models
 ## Module 3 allows the bank teller to insert the borrower's profile and recommend if the loan should be approved
 
-Note 1 : as the data set, please find the dataset in this link: https://drive.google.com/file/d/1m777msHIPejhUWm7b34xOv_9cYPdJ95U/view?usp=sharing
-Note 2: The exported random forest model is 1GB. I recommend running module 2 on your local computer to export the model in order to run module 3 
+* Note 1 : as the data set, please find the dataset in this link: https://drive.google.com/file/d/1m777msHIPejhUWm7b34xOv_9cYPdJ95U/view?usp=sharing
+* Note 2: The exported random forest model is 1GB. I recommend running module 2 on your local computer to export the model in order to run module 3 
