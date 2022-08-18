@@ -1,0 +1,2 @@
+# Loan_Default_Predictor
+Take a look at the simulated input loan data. Each row corresponds to a loan. It includes the borrower's demographics, income, education, etc. It also includes how many days the loan is overdue: ie, the maxoverduedays column. If maxoverduedays >90, we say that the borrower has defaulted on the loan.  Our objective is to write an algorithm so that given a new loan, we can predict whether it will default or not. 
